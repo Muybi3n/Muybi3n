@@ -32,6 +32,8 @@ I build **Blue Team Cyber Defense tooling**, **Threat Intelligence Automation**,
 ### 🚀 Featured Engineering Portfolio
 
 #### 🤖 [`AI_Projects`](https://github.com/Muybi3n/AI_Projects) — Multi-Domain AI & Engineering Showcase Hub
+* **[`inboxguard-core`](https://github.com/Muybi3n/AI_Projects/tree/inboxguard-core):** Local-First Email 5-Tier Classification, Newsletter Decay Purge, SPF/DKIM Spoof Audit & Gmail/Sieve Rules Exporter.
+* **[`nasroute-core`](https://github.com/Muybi3n/AI_Projects/tree/nasroute-core):** Homelab Document Storage Routing Engine with BLAKE2b/SHA-256 Dual Checksums & Multi-Tier Management.
 * **[`ptomax-core`](https://github.com/Muybi3n/AI_Projects/tree/ptomax-core):** PTO Holiday Stacking Optimizer, Work Handover Coverage Matrix, OOO Email Synthesizer & Leave Accrual Engine.
 * **[`cardroute-engine`](https://github.com/Muybi3n/AI_Projects/tree/cardroute-engine):** Credit Card Spend Routing Optimizer, Bank 5/24 Churning Rule Engine, SUB Minimum Spend Tracker & AI Portfolio Companion.
 * **[`oncorenal-core`](https://github.com/Muybi3n/AI_Projects/tree/oncorenal-core):** Oncology Chemo Nadir Immune Tracker, Dialysis Interdialytic Weight Gain (IDWG) Ledger & AI Specialty Companion.
