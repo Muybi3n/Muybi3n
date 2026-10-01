@@ -32,6 +32,7 @@ I build **Blue Team Cyber Defense tooling**, **Threat Intelligence Automation**,
 ### 🚀 Featured Engineering Portfolio
 
 #### 🤖 [`AI_Projects`](https://github.com/Muybi3n/AI_Projects) — Multi-Domain AI & Engineering Showcase Hub
+* **[`socmesh-audit`](https://github.com/Muybi3n/AI_Projects/tree/socmesh-audit):** Homelab & Mini-SOC Telemetry Normalizer (Wazuh, Pi-hole, Linux Auth), MITRE ATT&CK Threat Correlation, Blast-Radius Scorer & Alert Fatigue Governor.
 * **[`cadence-calendar`](https://github.com/Muybi3n/AI_Projects/tree/cadence-calendar):** Local-First Calendar Fatigue Auditor, Cognitive Load Analyzer & Deep-Work Buffer Protector.
 * **[`drivemesh-core`](https://github.com/Muybi3n/AI_Projects/tree/drivemesh-core):** Cloud Storage & Google Drive Subject Taxonomy, 4-Tier Fuzzy Duplicate Detection & Storage Waste Auditor.
 * **[`inboxguard-core`](https://github.com/Muybi3n/AI_Projects/tree/inboxguard-core):** Local-First Email 5-Tier Classification, Newsletter Decay Purge, SPF/DKIM Spoof Audit & Gmail/Sieve Rules Exporter.
